@@ -10,11 +10,11 @@ USB_API/USB_MSC_API/UsbMscStateMachine.obj: C:/ti/ccsv6/tools/compiler/msp430_15
 USB_API/USB_MSC_API/UsbMscStateMachine.obj: ../USB_API/USB_MSC_API/../USB_Common/defMSP430USB.h
 USB_API/USB_MSC_API/UsbMscStateMachine.obj: C:/ti/ccsv6/tools/compiler/msp430_15.12.3.LTS/include/stdint.h
 USB_API/USB_MSC_API/UsbMscStateMachine.obj: ../USB_API/USB_MSC_API/../USB_MSC_API/UsbMscScsi.h
-USB_API/USB_MSC_API/UsbMscStateMachine.obj: C:/Users/jholeman/flicker/M1_FileSystemEmulation/USB_config/descriptors.h
-USB_API/USB_MSC_API/UsbMscStateMachine.obj: C:/Users/jholeman/flicker/M1_FileSystemEmulation/USB_API/USB_Common/usb.h
+USB_API/USB_MSC_API/UsbMscStateMachine.obj: C:/Users/jholeman/Documents/GitHub/flickerUSBMSC1/M1_FileSystemEmulation/USB_config/descriptors.h
+USB_API/USB_MSC_API/UsbMscStateMachine.obj: C:/Users/jholeman/Documents/GitHub/flickerUSBMSC1/M1_FileSystemEmulation/USB_API/USB_Common/usb.h
 USB_API/USB_MSC_API/UsbMscStateMachine.obj: ../USB_API/USB_MSC_API/../USB_MSC_API/UsbMsc.h
 USB_API/USB_MSC_API/UsbMscStateMachine.obj: ../USB_API/USB_MSC_API/../USB_MSC_API/UsbMscScsi.h
-USB_API/USB_MSC_API/UsbMscStateMachine.obj: C:/Users/jholeman/flicker/M1_FileSystemEmulation/USB_config/descriptors.h
+USB_API/USB_MSC_API/UsbMscStateMachine.obj: C:/Users/jholeman/Documents/GitHub/flickerUSBMSC1/M1_FileSystemEmulation/USB_config/descriptors.h
 USB_API/USB_MSC_API/UsbMscStateMachine.obj: C:/ti/ccsv6/tools/compiler/msp430_15.12.3.LTS/include/string.h
 USB_API/USB_MSC_API/UsbMscStateMachine.obj: C:/ti/ccsv6/tools/compiler/msp430_15.12.3.LTS/include/linkage.h
 
@@ -28,10 +28,10 @@ C:/ti/ccsv6/tools/compiler/msp430_15.12.3.LTS/include/intrinsics_legacy_undefs.h
 ../USB_API/USB_MSC_API/../USB_Common/defMSP430USB.h: 
 C:/ti/ccsv6/tools/compiler/msp430_15.12.3.LTS/include/stdint.h: 
 ../USB_API/USB_MSC_API/../USB_MSC_API/UsbMscScsi.h: 
-C:/Users/jholeman/flicker/M1_FileSystemEmulation/USB_config/descriptors.h: 
-C:/Users/jholeman/flicker/M1_FileSystemEmulation/USB_API/USB_Common/usb.h: 
+C:/Users/jholeman/Documents/GitHub/flickerUSBMSC1/M1_FileSystemEmulation/USB_config/descriptors.h: 
+C:/Users/jholeman/Documents/GitHub/flickerUSBMSC1/M1_FileSystemEmulation/USB_API/USB_Common/usb.h: 
 ../USB_API/USB_MSC_API/../USB_MSC_API/UsbMsc.h: 
 ../USB_API/USB_MSC_API/../USB_MSC_API/UsbMscScsi.h: 
-C:/Users/jholeman/flicker/M1_FileSystemEmulation/USB_config/descriptors.h: 
+C:/Users/jholeman/Documents/GitHub/flickerUSBMSC1/M1_FileSystemEmulation/USB_config/descriptors.h: 
 C:/ti/ccsv6/tools/compiler/msp430_15.12.3.LTS/include/string.h: 
 C:/ti/ccsv6/tools/compiler/msp430_15.12.3.LTS/include/linkage.h: 

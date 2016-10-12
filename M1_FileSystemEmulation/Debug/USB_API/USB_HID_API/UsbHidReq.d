@@ -12,7 +12,7 @@ USB_API/USB_HID_API/UsbHidReq.obj: C:/ti/ccsv6/tools/compiler/msp430_15.12.3.LTS
 USB_API/USB_HID_API/UsbHidReq.obj: ../USB_API/USB_HID_API/../USB_Common/usb.h
 USB_API/USB_HID_API/UsbHidReq.obj: ../USB_API/USB_HID_API/UsbHid.h
 USB_API/USB_HID_API/UsbHidReq.obj: ../USB_API/USB_HID_API/UsbHidReq.h
-USB_API/USB_HID_API/UsbHidReq.obj: C:/Users/jholeman/flicker/M1_FileSystemEmulation/USB_config/descriptors.h
+USB_API/USB_HID_API/UsbHidReq.obj: C:/Users/jholeman/Documents/GitHub/flickerUSBMSC1/M1_FileSystemEmulation/USB_config/descriptors.h
 
 ../USB_API/USB_HID_API/UsbHidReq.c: 
 ../USB_API/USB_HID_API/../USB_Common/device.h: 
@@ -26,4 +26,4 @@ C:/ti/ccsv6/tools/compiler/msp430_15.12.3.LTS/include/stdint.h:
 ../USB_API/USB_HID_API/../USB_Common/usb.h: 
 ../USB_API/USB_HID_API/UsbHid.h: 
 ../USB_API/USB_HID_API/UsbHidReq.h: 
-C:/Users/jholeman/flicker/M1_FileSystemEmulation/USB_config/descriptors.h: 
+C:/Users/jholeman/Documents/GitHub/flickerUSBMSC1/M1_FileSystemEmulation/USB_config/descriptors.h: 
